@@ -1,0 +1,9 @@
+#no {
+   position: absolute;
+    transition: .2s;
+}
+
+body{
+    background-image: url('img/bg-pink.jpg');
+    background-size:cover;
+}
